@@ -1,0 +1,8 @@
+c:\users\vaio\documents\visual studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\bin\Debug\CsharpDeveloperAssignment.exe
+c:\users\vaio\documents\visual studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\bin\Debug\CsharpDeveloperAssignment.pdb
+c:\users\vaio\documents\visual studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Debug\CsharpDeveloperAssignment.Form1.resources
+c:\users\vaio\documents\visual studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Debug\CsharpDeveloperAssignment.Properties.Resources.resources
+c:\users\vaio\documents\visual studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Debug\CsharpDeveloperAssignment.csproj.GenerateResource.Cache
+c:\users\vaio\documents\visual studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Debug\CsharpDeveloperAssignment.exe
+c:\users\vaio\documents\visual studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Debug\CsharpDeveloperAssignment.pdb
+c:\users\vaio\documents\visual studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Debug\CsharpDeveloperAssignment.Form2.resources

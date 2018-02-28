@@ -1,0 +1,9 @@
+C:\Users\Vaio\Documents\Visual Studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\bin\Release\CsharpDeveloperAssignment.exe
+C:\Users\Vaio\Documents\Visual Studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\bin\Release\CsharpDeveloperAssignment.pdb
+C:\Users\Vaio\Documents\Visual Studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Release\CsharpDeveloperAssignment.Form1.resources
+C:\Users\Vaio\Documents\Visual Studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Release\CsharpDeveloperAssignment.Form2.resources
+C:\Users\Vaio\Documents\Visual Studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Release\CsharpDeveloperAssignment.Properties.Resources.resources
+C:\Users\Vaio\Documents\Visual Studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Release\CsharpDeveloperAssignment.csproj.GenerateResource.Cache
+C:\Users\Vaio\Documents\Visual Studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Release\CsharpDeveloperAssignment.exe
+C:\Users\Vaio\Documents\Visual Studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Release\CsharpDeveloperAssignment.pdb
+C:\Users\Vaio\Documents\Visual Studio 2010\Projects\CsharpDeveloperAssignment\CsharpDeveloperAssignment\obj\x86\Release\CsharpDeveloperAssignment.csprojResolveAssemblyReference.cache
